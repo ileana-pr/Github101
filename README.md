@@ -15,10 +15,10 @@ The series is split into two sessions — you can attend one or both:
 | File | What it is |
 |---|---|
 | [📅 Agenda](./introduction/student-resources/agenda.md) | What we'll cover — read this first |
-| [📋 Pre-Requisite Checklist](./introduction/student-resources/prereq_checklist.md) | Complete this **before** the session |
+| [📋 Pre-Requisite Checklist](./introduction/student-resources/ready-up-checklist.md) | Complete this **before** the session |
 | [🗒️ Cheatsheet](./introduction/student-resources/cheatsheet.md) | Keep this open during the session — every command we run |
-| [📖 Lesson Plan](./introduction/lesson-plans/01_lesson_plan_overview.md) | Full session outline (instructors) |
-| [🎙️ Instructor Guide](./introduction/lesson-plans/02_instructor_guide.md) | Live delivery guide with timestamps (instructors) |
+| [📖 Lesson Plan](./lesson-plans/01-introduction-lesson-plan.md) | Full session outline (instructors) |
+| [🎙️ Instructor Guide](./lesson-plans/01-introduction-instructor-guide.md) | Live delivery guide with timestamps (instructors) |
 
 ---
 
@@ -31,10 +31,10 @@ The series is split into two sessions — you can attend one or both:
 | File | What it is |
 |---|---|
 | [📅 Agenda](./security/student-resources/agenda.md) | What we'll cover — read this first |
-| [📋 Pre-Requisite Checklist](./security/student-resources/prereq_checklist.md) | Complete this **before** the session |
+| [📋 Pre-Requisite Checklist](./security/student-resources/ready-up-checklist.md) | Complete this **before** the session |
 | [🗒️ Cheatsheet](./security/student-resources/cheatsheet.md) | Keep this open during the session — every command we run |
-| [📖 Lesson Plan](./security/lesson-plans/01_lesson_plan_overview.md) | Full session outline (instructors) |
-| [🎙️ Instructor Guide](./security/lesson-plans/02_instructor_guide.md) | Live delivery guide with timestamps (instructors) |
+| [📖 Lesson Plan](./lesson-plans/02-security-lesson-plan.md) | Full session outline (instructors) |
+| [🎙️ Instructor Guide](./lesson-plans/02-security-instructor-guide.md) | Live delivery guide with timestamps (instructors) |
 
 ---
 
