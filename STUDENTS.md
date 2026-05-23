@@ -20,6 +20,7 @@ Welcome to the class! Add your name here by opening a Pull Request — that's yo
 | Name | GitHub | Cohort |
 |---|---|---|
 | Tati | [@ileana-pr](https://github.com/ileana-pr) | Instructor |
+| kitblake | [@kitblake](https://github.com/kitblake) | Student |
 
 <!-- Add your row above this line -->
 
